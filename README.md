@@ -1,7 +1,7 @@
-### Hi, I'm Sirui!
-
 <!--
 **sirui-luo/sirui-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi, I'm Sirui!
 
 📊 Data Scientist passionate about solving complex business problems with data-driven insights.
 
