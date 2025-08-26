@@ -1,11 +1,8 @@
-<!--
-**sirui-luo/sirui-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi, I'm Sirui!
 
 📊 Data Scientist passionate about solving complex business problems with data-driven insights.
 
-🎓 A graduate student from Master of Science in Business Analytics at the [University of Minnesota, Carlson School of Management].
+🎓 Recent graduate with a Master of Science in Business Analytics from the [University of Minnesota, Carlson School of Management](https://carlsonschool.umn.edu/masters-programs/master-science-business-analytics).
 
 💡 Building projects in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.
 
