@@ -1,6 +1,6 @@
 ### Hi, I'm Sirui!
 
-📊 Data Scientist passionate about solving complex business problems with data-driven insights.
+📊 Data Analyst passionate about solving complex business problems with data-driven insights.
 
 🎓 Recent graduate with a Master of Science in Business Analytics from the [University of Minnesota, Carlson School of Management](https://carlsonschool.umn.edu/).
 
