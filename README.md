@@ -3,14 +3,14 @@
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 
-🏦 **Commerzbank AG**: Built predictive credit risk models for loan portfolios and analyzed FX & fixed-income market sensitivities to inform pricing decisions  
+**Commerzbank AG**: Built predictive credit risk models for loan portfolios and analyzed FX & fixed-income market sensitivities to inform pricing decisions  
 
-🚀 **FunLiving Internet Co.**: Designed and deployed **end-to-end cloud data pipelines** in Snowflake and optimized **user acquisition & retention** with ML-driven marketing models  
+**FunLiving Internet Co.**: Designed and deployed **end-to-end cloud data pipelines** in Snowflake and optimized **user acquisition & retention** with ML-driven marketing models  
 
-💡 **Carlson Analytics Lab (Industry Projects)**: 
+**Carlson Analytics Lab (Industry Projects)**: 
 - Partnered with MN’s largest food hub to analyze sales data and **recommend warehouse placement** using SQL & Tableau 
 - eveloped an **ETL + ML pipeline** in Databricks to automate **airline safety report classification**
   
