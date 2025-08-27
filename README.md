@@ -14,8 +14,8 @@
 
 ### 💼 Professional Experience
 
-* 🏦 At **Commerzbank AG**, I built credit risk models that reduced portfolio risk by 9.2% and analyzed market sensitivity for fixed-income assets.
-* 🚀 With **FunLiving Internet Co.**, I engineered Snowflake data pipelines and deployed ML models that lifted user acquisition 25% MoM.
+* 🏦 At **Commerzbank AG**, I developed predictive credit risk models for financial portfolios and analyzed market sensitivity for fixed-income and currency assets.
+* 🚀 With **FunLiving Internet Co.**, I engineered end-to-end cloud data pipelines and deployed machine learning models to optimize user acquisition and retention strategies.
 * 💡 Through the **Carlson Analytics Lab**, I've partnered with industry leaders:
-    * Analyzed sales data for **MN's largest food hub** to identify a 20% supply-demand gap.
-    * Architected an ETL/ML pipeline for a **major U.S. airline** to streamline safety report classification process.
+    * Analyzed sales data for **MN's largest food hub** to identify supply-demand gap and inform operational warehouse placement decisions using SQL, Tableau.
+    * Architected an ETL/ML pipeline for a **major U.S. airline** to streamline safety report classification process in Databricks.
