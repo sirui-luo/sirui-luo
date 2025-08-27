@@ -1,4 +1,4 @@
-# Hi, I'm Sirui!
+# Hi, I'm Sirui! 😊
 
 Data Analyst with a Master’s in Business Analytics from the University of Minnesota, Carlson School of Management. Experienced in designing end-to-end data pipelines, developing business intelligence solutions, and building predictive models to solve complex business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform raw data into actionable insights. 
 
