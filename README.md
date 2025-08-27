@@ -8,7 +8,7 @@
 
 🛠️ **Core Stack:** Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.
 
-🤝 **Seeking full-time** Data Analyst & Data Scientist opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/sirui-luo-/)!
+🤝 **Seeking full-time** Data Analyst & Data Scientist opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!
 
 ---
 
