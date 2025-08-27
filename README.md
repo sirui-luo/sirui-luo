@@ -1,7 +1,18 @@
 # Hi, I'm Sirui!:
-📊 Data Scientist passionate about solving complex business problems with data-driven insights.<br><br>🎓 Recent graduate with a Master of Science in Business Analytics from the University of Minnesota, Carlson School of Management.<br><br>💡 Building projects in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.<br><br>🛠️ Core Technique: Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.<br><br>🤝 Seeking full-time Data Analyst & Data Scientist opportunities. Let's connect on LinkedIn!<br><br>💼 Professional Experience<br>🏦 At Commerzbank AG, I developed predictive credit risk models for financial portfolios and analyzed market sensitivity for fixed-income and currency assets.<br>🚀 With FunLiving Internet Co., I engineered end-to-end cloud data pipelines and deployed machine learning models to optimize user acquisition and retention strategies.<br>💡 Through the Carlson Analytics Lab, I've partnered with industry leaders:<br>Analyzed sales data for MN's largest food hub to identify supply-demand gap and inform operational warehouse placement decisions using SQL, Tableau.<br>Architected an ETL/ML pipeline for a major U.S. airline to streamline safety report classification process in Databricks.
+📊 Data Scientist passionate about solving complex business problems with data-driven insights.<br><br>🎓 Recent graduate with a Master of Science in Business Analytics from the University of Minnesota, Carlson School of Management.<br><br>💡 Building projects in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.<br><br>🛠️ Core Technique: Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.<br><br>🤝 Seeking full-time Data Analyst & Data Scientist opportunities. Let's connect on LinkedIn!<br><br>💼 Professional Experience<br>
 
+🏦 **Commerzbank AG**  
+- Built predictive credit risk models for loan portfolios  
+- Analyzed FX & fixed-income market sensitivities to inform pricing decisions  
 
+🚀 **FunLiving Internet Co.**  
+- Designed and deployed **end-to-end cloud data pipelines**  
+- Optimized **user acquisition & retention** with ML-driven marketing models  
+
+💡 **Carlson Analytics Lab (Industry Projects)**  
+- Partnered with MN’s largest food hub to analyze sales data and **recommend warehouse placement** using SQL & Tableau  
+- Developed an **ETL + ML pipeline** in Databricks to automate **airline safety report classification**
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antialc0730) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siruiluo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirui1563@gmail.com) 
 
