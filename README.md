@@ -6,7 +6,7 @@
 
 💡 **Building projects** in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.
 
-🛠️ **Core Stack:** Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.
+🛠️ **Core Technique:** Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.
 
 🤝 **Seeking full-time** Data Analyst & Data Scientist opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!
 
