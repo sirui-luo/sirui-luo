@@ -6,17 +6,11 @@
 ### 💼 Professional Experience
 
 
-🏦 **Commerzbank AG**  
-- Built predictive credit risk models for loan portfolios  
-- Analyzed FX & fixed-income market sensitivities to inform pricing decisions  
+🏦 **Commerzbank AG**: Built predictive credit risk models for loan portfolios and analyzed FX & fixed-income market sensitivities to inform pricing decisions  
 
-🚀 **FunLiving Internet Co.**  
-- Designed and deployed **end-to-end cloud data pipelines**  
-- Optimized **user acquisition & retention** with ML-driven marketing models  
+🚀 **FunLiving Internet Co.**: Designed and deployed **end-to-end cloud data pipelines** in Snowflake and optimized **user acquisition & retention** with ML-driven marketing models  
 
-💡 **Carlson Analytics Lab (Industry Projects)**  
-- Partnered with MN’s largest food hub to analyze sales data and **recommend warehouse placement** using SQL & Tableau  
-- Developed an **ETL + ML pipeline** in Databricks to automate **airline safety report classification**
+💡 **Carlson Analytics Lab (Industry Projects)**: Partnered with MN’s largest food hub to analyze sales data and **recommend warehouse placement** using SQL & Tableau and developed an **ETL + ML pipeline** in Databricks to automate **airline safety report classification**
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antialc0730) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siruiluo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirui1563@gmail.com) 
