@@ -1,5 +1,10 @@
 # Hi, I'm Sirui!:
-📊 Data Scientist passionate about solving complex business problems with data-driven insights.<br><br>🎓 Recent graduate with a Master of Science in Business Analytics from the University of Minnesota, Carlson School of Management.<br><br>💡 Building projects in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.<br><br>🛠️ Core Technique: Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.<br><br>🤝 Seeking full-time Data Analyst & Data Scientist opportunities. Let's connect on LinkedIn!<br><br>💼 Professional Experience<br>
+📊 Data Scientist passionate about solving complex business problems with data-driven insights.<br><br>🎓 Recent graduate with a Master of Science in Business Analytics from the University of Minnesota, Carlson School of Management.<br><br>💡 Building projects in financial risk modeling, sales forecasting, and investment strategy using ML and statistical analysis.<br><br>🛠️ Core Technique: Python (Pandas, Scikit-learn), SQL (Snowflake), Power BI, Databricks, Spark and R.<br><br>🤝 Seeking full-time Data Analyst & Data Scientist opportunities. Let's connect on LinkedIn!<br><br>
+
+---
+
+### 💼 Professional Experience
+
 
 🏦 **Commerzbank AG**  
 - Built predictive credit risk models for loan portfolios  
