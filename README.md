@@ -1,6 +1,6 @@
 # Hi, I'm Sirui! 😊
 
-Data Analyst with a Master's in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in optimizing data analytics framework, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights.
+Data Analyst with a Master's in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in optimizing data analytics framework, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Snowflake**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights.
 
 👩🏻‍💻 Currently a **Data Analyst in fintech** at **EXL & Capital One**, building ML models and data pipelines to drive marketing growth. Off the clock, I build interesting things using AI.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!<br>
