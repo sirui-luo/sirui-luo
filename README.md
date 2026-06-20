@@ -1,17 +1,17 @@
 # Hi, I'm Sirui! 😊
 
-Data Analyst with a Master's in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in designing end-to-end data pipelines, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights.
+Data Analyst with a Master's in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in optimizing data analytics framework, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights.
 
-👩🏻‍💻 Currently a **Data Analyst in fintech** at **EXL (Client: Capital One)**, building ML models and data pipelines to drive marketing growth. Off the clock, I build interesting things using AI.
+👩🏻‍💻 Currently a **Data Analyst in fintech** at **EXL & Capital One**, building ML models and data pipelines to drive marketing growth. Off the clock, I build interesting things using AI.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!<br>
 
 ---
 
 ### Professional Experience
 
-**EXL (Client: Capital One)**, New York, NY — *Data Analyst* (Nov 2025 – Present)
+**EXL & Capital One**: Led vendor data evaluation to shape marketing **data strategy** and built **challenger model framework** to quantify vendor data value in marketing ROI metrics
 
-**Commerzbank AG**: Built predictive credit risk models for portfolios and analyzed FX & IR market sensitivities to inform pricing decisions  
+**Commerzbank AG**: Analyzed client lending performance across utilization, credit limits, and repayment behavior, and built predictive **credit risk models** to support portfolio management decisions
 
 **FunLiving Internet Co.**: Designed and deployed **end-to-end cloud data pipelines** in **Snowflake** and optimized user funnel with ML-driven marketing models  
 
