@@ -1,20 +1,22 @@
 # Hi, I'm Sirui! 😊
 
-Data Analyst with a Master’s in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in designing end-to-end data pipelines, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights. 
+Data Analyst with a Master's in Business Analytics from University of Minnesota, Carlson School of Management. Experienced in designing end-to-end data pipelines, developing business intelligence solutions, and building predictive models to solve business problems. Skilled in **Python**, **SQL**, **Power BI**, **Databricks**, and **R**, with a proven ability to transform data into actionable insights.
 
-👩🏻‍💻 With background in Economics, Statistics and Analytics, I am actively seeking full-time **Data Analyst** & **Data Scientist** opportunities. 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!<br>
+👩🏻‍💻 Currently a **Data Analyst in fintech** at **EXL (Client: Capital One)**, building ML models and data pipelines to drive marketing growth. Off the clock, I build interesting things using AI.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/siruiluo/)!<br>
 
 ---
 
 ### Professional Experience
+
+**EXL (Client: Capital One)**, New York, NY — *Data Analyst* (Nov 2025 – Present)
 
 **Commerzbank AG**: Built predictive credit risk models for portfolios and analyzed FX & IR market sensitivities to inform pricing decisions  
 
 **FunLiving Internet Co.**: Designed and deployed **end-to-end cloud data pipelines** in **Snowflake** and optimized user funnel with ML-driven marketing models  
 
 **Carlson Analytics Lab (Industry Projects)**: 
-- Partnered with MN’s largest food hub to analyze sales data and recommend warehouse placement using **SQL** & **Tableau** 
+- Partnered with MN's largest food hub to analyze sales data and recommend warehouse placement using **SQL** & **Tableau** 
 - Developed an **ETL + ML pipeline** in Databricks to automate **airline safety report classification**
   
 ## 🌐 Socials:
